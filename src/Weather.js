@@ -63,6 +63,17 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <footer>
+        This project was coded by{" "}
+        <a href="https://github.com/AmoNops" target="_blank">
+          Amogelang Sekhitla
+        </a>{" "}
+        and is{" "}
+        <a href="https://github.com/AmoNops/weather-react" target="_blank">
+          open-sourced
+        </a>{" "}
+        on GitHub.
+      </footer>
     </div>
   );
 }

@@ -11,6 +11,7 @@ root.render(
   <StrictMode>
     <div className="App">
       <Weather />
+      
     </div>
   </StrictMode>
 );
